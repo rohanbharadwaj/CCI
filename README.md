@@ -9,3 +9,5 @@ required.
 Chapter 1 - [Arrays and Strings](https://github.com/rohanbharadwaj/CCI/tree/master/Chapter1)
 
 Chapter 2 - [Linked Lists] (https://github.com/rohanbharadwaj/CCI/tree/master/Chapter2)
+
+Chapter 3 - [Stacks and Queue] (https://github.com/rohanbharadwaj/CCI/tree/master/Chapter3)
